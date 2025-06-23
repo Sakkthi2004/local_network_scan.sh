@@ -17,7 +17,7 @@ THIS REPOSITORY IS ABOUT TO SCAN LOCAL NETWORK
  * optional: xsltproc (For HTML report generation)
 
 # Usage
-   # Installing nmap from their official website
+Installing nmap from their official website
 
 sudo apt update 
 
