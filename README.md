@@ -5,9 +5,9 @@ THIS REPOSITORY IS ABOUT TO SCAN LOCAL NETWORK
  * It can autodetect your local subnet (e.g. 192.168.1.0/24)
  * It performs fast **TCP SYN scans**
  * Their output results in:
-    -> Plain text (.txt)
-    -> XML (.xml)
-    -> HTML (.html)
+     Plain text (.txt),
+     XML (.xml),
+     HTML (.html)
  * It shows the timestamp on your output directries 
 
 # Requirements
