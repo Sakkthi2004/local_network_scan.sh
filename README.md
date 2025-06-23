@@ -25,7 +25,7 @@ sudo apt install nmap xsltproc
 
 git clone https://github.com/Sakkthi2004/local_network_scan.sh-main.git
 
-cd local_network_scan.sh
+cd local_network_scan.sh-main
 
 chmod +x local_network_scan.sh
 
