@@ -14,7 +14,7 @@ THIS REPOSITORY IS ABOUT TO SCAN LOCAL NETWORK
  * Linux or WSL
  * nmap
  * ip (usually preinstalled)
- * optional: xsltproc (For HTML report generation)
+ * Optional: xsltproc (For HTML report generation)
 
 # Usage
 Installing nmap from their official website
@@ -30,6 +30,9 @@ cd local_network_scan.sh-main
 chmod +x local_network_scan.sh
 
 ./local_network_scan.sh
+
+# Optionally using Wireshark 
+  By using wireshark we can trace the packets in the open port.
 
 # Example output 
 
